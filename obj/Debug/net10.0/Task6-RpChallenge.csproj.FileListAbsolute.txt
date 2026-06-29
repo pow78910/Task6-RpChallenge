@@ -1,0 +1,14 @@
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\bin\Debug\net10.0\Task6-RpChallenge.exe
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\bin\Debug\net10.0\Task6-RpChallenge.deps.json
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\bin\Debug\net10.0\Task6-RpChallenge.runtimeconfig.json
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\bin\Debug\net10.0\Task6-RpChallenge.dll
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\bin\Debug\net10.0\Task6-RpChallenge.pdb
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.AssemblyInfoInputs.cache
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.AssemblyInfo.cs
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.csproj.CoreCompileInputs.cache
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.dll
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\refint\Task6-RpChallenge.dll
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.pdb
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\Task6-RpChallenge.genruntimeconfig.cache
+C:\Users\powellj\Documents\VsCodeProjects\Task6-RpChallenge\obj\Debug\net10.0\ref\Task6-RpChallenge.dll
