@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task6-RpChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f490a7ed57eea6193db277744a6832a0975a28d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task6-RpChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task6-RpChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
