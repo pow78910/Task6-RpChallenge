@@ -1,4 +1,5 @@
 using System;
+using RpChallenge;
 
 
 class Files()
@@ -7,5 +8,7 @@ class Files()
     {
        string fileText = File.ReadAllText(@path) ; 
        Console.WriteLine($"\n{fileText}");
+       Console.ReadKey();
+       Program.Start();
     }
 }

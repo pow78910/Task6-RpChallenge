@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using RpChallenge;
 
 
 
@@ -39,10 +40,30 @@ class GameRunning()
 
         Console.WriteLine(CoreFeatures.EndGameMsg(CoreFeatures.PlayerHealth(0), CoreFeatures.MonsterHealth(0)));
 
-        Console.ReadKey();
+        PlayAgain();
 
-        GameRun();
+        
     }
+
+    public static void PlayAgain()
+    {
+        Console.WriteLine("\n\nPress 1 to play again ('x' to exit)");
+
+        
+
+        while (true)
+        {
+            ConsoleKeyInfo input = Console.ReadKey(true); 
+            switch (input.KeyChar)
+            {
+                case '1': GameRun(); break;
+                case 'x': Program.Start(); break;
+                default: Console.WriteLine("Invalid Input, try again"); break;
+            }
+
+        }
+    }
+
 
     
     
